@@ -3,6 +3,7 @@
 codigo de validação de senha que permite cadastrar somente senhas que contem com pelo menos 1 numero, 1 letra minuscula, 1 maiuscula e 1 caractere especial.
 
 # utilizando nova branch
+# esqueci do git status
 
 # tecnologias utilizadas
 
