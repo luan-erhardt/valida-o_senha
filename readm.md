@@ -2,6 +2,8 @@
 
 codigo de validação de senha que permite cadastrar somente senhas que contem com pelo menos 1 numero, 1 letra minuscula, 1 maiuscula e 1 caractere especial.
 
+# esqueci
+
 # tecnologias utilizadas
 
 ### back-end
